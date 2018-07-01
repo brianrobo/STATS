@@ -29,7 +29,16 @@
 * types of variables
   * all variables
     - numerical (quantitative)
-      + take on numerical values sensible to add, subtract, take averages, etc. with these values
+      + : take on numerical values sensible to add, subtract, take averages, etc. with these values
+      - continous
+        - : take on any of an infinite number of values within a given range
+	- (e.g, height)
+      - descrete
+        - : take on one of a specific set of numeric values
+	- (e.g, number of cars a household own)
     - categorical (qualitative)
-      + take on a
+      + : take on a limited number of distinct categories
+      + : categories can be identified with numbers, but not sensible to do arithmetic operations
+
+  
 
